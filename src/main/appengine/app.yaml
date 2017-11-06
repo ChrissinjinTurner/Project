@@ -1,0 +1,5 @@
+runtime: java
+env: flexible
+threadsafe: true
+manual_scaling:
+  instances: 1
